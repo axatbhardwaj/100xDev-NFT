@@ -70,7 +70,7 @@ interface ERC721 {
     function totalSupply() external view returns (uint256);
 }
 
-contract MembershipNFT {
+contract SBT100xDEV {
     event Transfer(
         address indexed _from,
         address indexed _to,
